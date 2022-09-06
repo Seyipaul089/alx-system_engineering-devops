@@ -1,1 +1,1 @@
-path to success
+script that counts the number
