@@ -1,1 +1,1 @@
-script that prints
+path to success
