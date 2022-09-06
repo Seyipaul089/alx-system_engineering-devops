@@ -1,1 +1,1 @@
-script that counts the number
+ script that lists environment
