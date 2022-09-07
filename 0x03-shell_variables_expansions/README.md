@@ -1,1 +1,1 @@
-script that lists all local variables
+ script that creates a new local variable
