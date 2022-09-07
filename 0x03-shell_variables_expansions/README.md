@@ -1,1 +1,1 @@
- script that lists environment
+script that lists all local variables
